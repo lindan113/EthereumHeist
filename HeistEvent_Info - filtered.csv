@@ -1,0 +1,63 @@
+﻿Case Name ,Year,Type,Amount Stolen,Summary,Means of Crime
+CoinrailHacker,2018,CEX Hack,"$40,000,000 ","Coinrail, a cryptocurrency exchange, has been hacked, with other sources suggesting it lost  cryptocurrencies totaling as much as $40 million in the attack.",Cyber Intrusion
+BancorHacker,2018,CEX Hack,"$23,500,000 ","Bancor, a crypto company that touts a decentralized exchange servic, has lost  some $23.5 million of cryptocurrency tokens belonging to its users  following a hack.",Wallet Attack
+SpankChainHacker,2018,Others,"$40,000 ","SpankChain, a cryptocurrency project focused on the adult industry, has suffered a breach that saw almost $40,000 in ethereum (ETH) stolen.",Cyber Intrusion
+FakeMetadiumPresale,2018,Scam,unknown,,
+BitpointHacker,2018,CEX Hack,"$32,000,000 ","Japanese cryptocurrency exchange Bitpoint was hacked last week when 
+hackers stole 3.5 billion yen ($32 million) from the exchange’s hot 
+wallet, of which 2.5 billion yen were customer funds.",Unusual Withdrawal from Hot Wallet
+CryptopiaHacker,2019,CEX Hack,"$45,000 ","Controversy still surrounds a liquidated New Zealand cryptocurrency exchange, which
+allegedly got hacked again. Adding to the $30 million stolen in 2019, 
+Cryptopia reports that it was the target of another theft incident on 
+February 1, 2021",Accessed a Dormant Wallet
+DragonExHacker,2019,CEX Hack,n/a,"DragonEx announced the news on its official Telegram channel on Monday, stating 
+that, on Sunday, March 24, it had suffered a cyberattack that saw 
+cryptocurrency funds owned by users and the exchange “transferred and 
+stolen.” No information has yet been provided on the value of the 
+losses.",Cyberattack
+UpbitHacker,2019,CEX Hack,"$2,000,000,000 ","At approximately 13:06 on November 27th, 2019 (KST), 342,000 ETH was sent 
+from Upbit’s Ethereum hot wallet to an anonymous wallet address.",Unusual Withdrawal from Hot Wallet
+PlusTokenPonzi,2019,Scam,"$49,000,000 ","In the case of one notable 2019 scam, the consequences may go beyond the direct victims. We believe that the criminals behind the PlusToken Ponzi scheme could be driving down the price of Bitcoin when they liquidate their stolen funds via OTC brokers",Stolen Funds via OTC Brokers
+KucoinHacker,2020,CEX Hack,"$280,000,000 ","In a live stream on 4:30 UTC Saturday, KuCoin CEO Johnny Lyu said one or 
+more hackers obtained the private keys to the exchange’s hot wallets. 
+KuCoin transferred what was left in them to new hot wallets, abandoned 
+the old ones and froze customer deposits and withdrawals",Obtain private keys
+AkropolisHacker,2020, DeFi Exploit,"$2,000,000 ","Hackers were reportedly able to exploit savings pools at Gibraltar-based decentralized finance protocol Akropolis, getting away with more than $2 million in stablecoins.",Exploit savings pools
+HarvestFinanceExploiter,2020, DeFi Exploit,"$24,000,000 ","An arbitrage trade exploiting weak points in decentralized finance 
+(DeFi) protocol Harvest Finance led to some $24 million in stablecoins 
+being siphoned away from the project’s pools on Monday, according to 
+CoinGecko.",Flash Loan Attack
+Lendf.MeHacker,2020, DeFi Exploit,"$25,236,849 ","at Apr-19–2020 12:58:43 AM +UTC, a similar hack occurred on Lendf.Me. Technically, the main logic behind these two incidents is the incompatibility between ERC777 and those DeFi smart contracts, which might be misused by the attacker to utterly hijack a normal transaction and perform additional illicit operations.",Misuse the incompatibility between ERC777 and DeFi smart contracts
+WarpFinanceHacker,2020, DeFi Exploit,"$7,700,000 ","Decentralized finance (DeFi) lending protocol Warp Finance has 
+experienced a flash loan attack that resulted in a loss of $7.7 million 
+worth of stablecoins.",Flash Loan Attack
+NexusMutualHacker,2020,Others,"$8,000,000 ","A hacker tricked Nexus Mutual CEO Hugh Karp into signing a transaction that directed 370,000 NXM ($8 million) directly into the hacker's pockets.",Trick
+AscendEXHacker,2021,CEX Hack,"$78,000,000 ","Crypto exchange AscendEX — formerly known as BitMax — has been hacked for an 
+estimated $77.7 million. That's according to the exchange, which 
+acknowledged the hack, and security researchers PeckShield who have 
+estimated its losses.",Unusual Withdrawal from Hot Wallet
+BitmartHacker,2021,CEX Hack,"$150,000,000 ","Crypto exchange BitMart said late Saturday that it has suffered a hack, 
+resulting in the loss of $150 million worth of crypto.",Unusual Withdrawal from Hot Wallet
+LiquidExchangeHacker,2021,CEX Hack,"$80,000,000 ","Japanese exchange Liquid has been hacked with about $80 million in digital assets moved off the platform. The exchange confirmed the security breach in an August 19 tweet,  with Liquid revealing the wallet addresses implicated in the breach. The
+exchange noted that only it’s warm wallets were affected, adding that 
+its assets are currently being moved into cold storage.",Unusual Withdrawal from Hot Wallet
+AlphaHomoraV2Exploiter,2021, DeFi Exploit,"$37,000,000 ","In one of the largest exploits of the DeFi era, this morning an 
+attacker successfully drained over $37 million from Alpha Homora by 
+leveraging Cream’s Iron Bank protocol-to-protocol lending platform",Borrow and Lend Repeatedly
+bZxPrivKeyExploiter,2021, DeFi Exploit,"$55,000,000 ","Decentralized finance (DeFi) lending protocol bZx was compromised for $55 million today, in what is becoming a recurring theme.",Obtain private keys
+CreamFinanceExploiter,2021, DeFi Exploit,"$130,000,000 ",An attacker has gained over $130 million of assets in an exploit that appears to have drained Cream’s coffers.,Flash Loan Attack
+EasyfiHacker,2021, DeFi Exploit,"$80,000,000 ","EasyFi, a decentralized finance (DeFi) Polygon Network-powered 
+protocol, has reported suffering a hack Monday of over $80 million.",Obtain private keys
+PolyNetworkExploiter,2021, DeFi Exploit,"$600,000,000 ","Multi-chain interoperability protocol Poly Network fell victim to an exploit today, resulting in the loss of roughly $600 million worth of various cryptocurrencies, the platform’s developers revealed.",Exploit Attack
+UraniumFinanceHacker,2021, DeFi Exploit,"$50,000,000 ","Uranium Finance, an automated market maker platform on the Binance Smart Chain, has reported a security incident that resulted in a loss of about $50 million.",Take advantage of bugs in Uranium’s balance modifier logic
+BadgerDAOExploitFunder,2021,Others,"$120,000,000 ","On Wednesday night an attacker drained funds from the wallets of dozens of users of the Badger DAO yield vault protocol using malicious contract permissions. Blockchain data and security analytics company PeckShield has concluded that the total loss amounted to about 2,100 BTC and 151 ETH.",Use malicious contract permissions
+VulcanForged,2021,Others,"$140,000,000 ","96 private keys were stolen from the crypto gaming ecosystem Vulcan Forged, enabling the attacker to siphon off $140 million in cryptocurrency.",Obtain private keys
+ATOStolenFunds,2022,CEX Hack,"$1,500,000 ","PeckShield, a blockchain security and data analytics company, reported at least 4600 ether was stolen, worth at least US$15 million.",Stolen money from wallets of users
+LCXHacker,2022,CEX Hack,"$6,800,000 ","Liechtenstein-based crypto exchange LCX has confirmed the compromise of one of its hot  wallets after temporarily suspending all deposits and withdrawals on the
+platform. Based on PeckShield’s investigation, LCX lost a cumulative of $6.8 
+million after the hacker successfully transferred eight types of tokens",Compromise hot  wallets
+CashioAppExploiter,2022, DeFi Exploit,"$52,800,000 ","an unknown actor exploited Cashio App leading to approximately $52 million worth of lost assets. The root cause of the attack stems from missing code in the collateral verification design. The verification design lacked necessary validation for the input “collateral”, enabling the attacker to use fake accounts to bypass the verifications and mint Cash tokens.",Use fake accounts to bypass the verifications and mint Cash tokens.
+FloatProtocolFuseExploiter,2022, DeFi Exploit,"$250,000 ",Float Protocol Pool 90 on pool suffered effects from a lack of liquidity in the Uniswap V3 FLOAT/USDC oracle which lead to severe price manipulation.,price manipulation
+DEGOandCocosExploiter,2022,Others,"$10,000,000,000 ","Dego Finance was hacked on February 10. Shortly after, it joined forces with prominent cryptocurrency exchanges such as Binance, Kucoin, and Gate.io to close deposits of its native governance and equity token, DEGO. The protocol also urged Uniswap, Poloniex, PancakeSwap, WazirX, etc., to do the same to mitigate the losses.",Unusual Withdrawal 
+Arthur0xWalletHacker,2022,Scam,"$1,600,000 ","Hacker Targets DeFiance Capital Founder, Losing $1.6 Million in Wallet Breach. “Arthur 0x,” the founder of large crypto investment firm DeFiance Capital, claimed in a tweet on March 22 that one of his hot wallets had been hacked, resulting in the loss of more than $1.6 million in nonfungible tokens (NFTs) and crypto.",Unusual Withdrawal from Hot Wallet
+Fake\_Phishing5041,2022,Scam,"$91,000 ",Phishing scam,Phishing scam
